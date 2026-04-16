@@ -27,6 +27,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/pasta-with-tomato-sauce/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/veggie-pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/drinks/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
